@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking to collaborate on "Thanglish to English Translation"
 - 🤔 I’m looking for help with NLP
-- 📫 How to reach me: [e-mail](gdhanush270@gmail.com)
+- 📫 How to reach me: [e-mail](mailto:gdhanush270@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  💡 If debugging is the process of removing bugs, then programming must be the process of putting them in.
 
