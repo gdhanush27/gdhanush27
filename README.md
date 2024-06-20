@@ -20,6 +20,9 @@
 ## 📊 GitHub Stats
 ![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdhanush27&show_icons=true&theme=radical)
 
+## 📊 Leetcode Stats
+![Dhanush's Leetcode stats](https://leetcard.jacoblin.cool/gdhanush270?theme=dark&font=Antic%20Didone&ext=heatmap)
+
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdhanush27&layout=compact&theme=radical)
 
