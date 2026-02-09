@@ -36,7 +36,8 @@ A secure, feature-rich file sharing application built with Flask.
 - User authentication
 - File upload and management
 - Controlled access and sharing
-
+- [DEMO](https://filesharepro.pythonanywhere.com/)
+  
 **Tech:** Python, Flask, HTML  
 **License:** GPL v3
 
@@ -47,6 +48,7 @@ A lightweight application that extracts Pokémon GO event data using web scrapin
 - Scrapes event data using BeautifulSoup
 - Parses and structures event information
 - Displays data via a Flask web app
+- [DEMO](https://pokemongo.pythonanywhere.com/)
 
 **Tech:** Python, BeautifulSoup (bs4), Flask
 
@@ -85,7 +87,7 @@ A modern form-building and analytics platform.
 
 ## 📫 Connect
 - GitHub: https://github.com/gdhanush27
-
+- Mail: [gdhanush270@gmail.com](mailto:gdhanush270@gmail.com)
 ---
 
 ⭐ If you find any project useful, feel free to star it.
