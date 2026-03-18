@@ -43,6 +43,15 @@ A secure, feature-rich file sharing application built with Flask.
 
 ---
 
+### 📄HtmlDrop
+Instant HTML sharing and slide deck hosting
+- upload any self-contained HTML
+- combine multiple HTML pages
+- Admin dashboard to view stats, search, block/unblock, and bulk-delete pages and decks
+- [DEMO](https://htmldrop.pythonanywhere.com/)
+
+---
+
 ### 🎮 pogo — Pokémon GO Events Extractor
 A lightweight application that extracts Pokémon GO event data using web scraping and serves it through a Flask interface.
 - Scrapes event data using BeautifulSoup
