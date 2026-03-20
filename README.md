@@ -26,10 +26,18 @@ I prefer practical, working solutions over demos and experiments that don’t sc
 - Git & GitHub
 - Firebase
 - Linux environments
+- VS Code Extentions
 
 ---
 
 ## 📌 Featured Projects
+
+### 🖇 Co-Claw
+A persistent memory layer to GitHub Copilot.
+- Persistent Memory
+- Automatic Memory Extraction
+- Agentic Coding and Model Switching
+- [DOWNLOAD LINK](https://marketplace.visualstudio.com/items?itemName=gdhanush270.CoClaw)
 
 ### 🔐 FileShare
 A secure, feature-rich file sharing application built with Flask.
