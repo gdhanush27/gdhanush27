@@ -36,8 +36,10 @@ I prefer practical, working solutions over demos and experiments that don’t sc
 A persistent memory layer to GitHub Copilot.
 - Persistent Memory
 - Automatic Memory Extraction
-- Agentic Coding and Model Switching
+- Telegram based chat control [WORKING ON IT]
 - [DOWNLOAD LINK](https://marketplace.visualstudio.com/items?itemName=gdhanush270.CoClaw)
+
+---
 
 ### 🔐 FileShare
 A secure, feature-rich file sharing application built with Flask.
