@@ -36,7 +36,7 @@ I prefer practical, working solutions over demos and experiments that don’t sc
 A persistent memory layer to GitHub Copilot.
 - Persistent Memory
 - Automatic Memory Extraction
-- Telegram based chat control [WORKING ON IT]
+- Telegram based chat control
 - [DOWNLOAD LINK](https://marketplace.visualstudio.com/items?itemName=gdhanush270.CoClaw)
 
 ---
