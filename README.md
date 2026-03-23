@@ -37,6 +37,7 @@ A persistent memory layer to GitHub Copilot.
 - Persistent Memory
 - Automatic Memory Extraction
 - Telegram based chat control
+- [DOCS](https://co-claw.readthedocs.io/en/latest/)
 - [DOWNLOAD LINK](https://marketplace.visualstudio.com/items?itemName=gdhanush270.CoClaw)
 
 ---
